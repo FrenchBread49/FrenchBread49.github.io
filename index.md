@@ -6,7 +6,7 @@
   </head>
   <body>
     <!-- Html comment -->
-    <h1>FrenchBread49</h1>
+    <h1>FrenchBread49 :)</h1>
       <p>Hello! I am FrenchBread49! I am a scratcher with over 50 followers and is active on the forums! :)</p><br />
       <p>Links: <a href="DescriptionOfMe">Description Of Me</a></p>
   </body>
